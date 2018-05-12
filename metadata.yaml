@@ -38,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32194
     wikipedia: http://en.wikipedia.org/wiki/Auguste_Poulet-Malassis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26710#Les--paves-de-Charles-Baudelaire
 gutenberg_bookshelf:
 - FR Poésie
 - Banned Books from Anne Haight's list
