@@ -1,0 +1,56 @@
+_repo: Les--paves-de-Charles-Baudelaire_26710
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rops, Félicien
+    aliases:
+    - Rops, Felicien
+    - Rops, Félicien Victor Joseph
+    birthdate: 1833
+    deathdate: 1898
+    gutenberg_agent_id: '32195'
+    url: http://www.gutenberg.org/2009/agents/32195
+    wikipedia: http://en.wikipedia.org/wiki/F%C3%A9licien_Rops
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+  editor:
+    agent_name: Poulet-Malassis, Auguste
+    aliases:
+    - Poulet-Malassis, Paul Emmanuel Auguste
+    - Poulet-Malassis, A. (Auguste)
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '32194'
+    url: http://www.gutenberg.org/2009/agents/32194
+    wikipedia: http://en.wikipedia.org/wiki/Auguste_Poulet-Malassis
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2008-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26710'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry'
+title: Les épaves de Charles Baudelaire
+url: http://www.gutenberg.org/ebooks/26710
